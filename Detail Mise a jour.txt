@@ -1,0 +1,5 @@
+Detail Mise à jour 12/11/2021:
+
+-rajout de diverse info dans le menu d'aide
+-rajout du menu option(prototipe)
+-rajout de l'option activer/descactiver Menu d'aide
