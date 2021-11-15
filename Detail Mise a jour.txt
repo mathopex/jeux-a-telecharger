@@ -1,5 +1,11 @@
-Detail Mise à jour 12/11/2021:
+Detail Mise à jour 15/11/2021:
 
--rajout de diverse info dans le menu d'aide
--rajout du menu option(prototipe)
--rajout de l'option activer/descactiver Menu d'aide
+
+correction:
+
+-Correction du menu aide qui s'affiche a chaque changement
+de niveau
+
+-personnage remis au debut du jeu
+
+-rajout des mots "debut" et " fin" sur les portes du niveau
